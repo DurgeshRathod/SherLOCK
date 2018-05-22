@@ -1,0 +1,7 @@
+Android base Application provided with intelligance to rescue itself when stolen.
+Automatically detects if it is stolen using some logic and statistics in phones data
+Sends an SMS on another number which was given to the applcation while registratoin.
+
+SMS commands used in the Application
+1). siren<SPACE><LAST 4 CHAR OF PASSWORD>
+2). Location<SPACE><LAST 4 CHAR OF PASSWORD>
